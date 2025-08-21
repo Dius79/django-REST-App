@@ -1,0 +1,8 @@
+Django>=3.2
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+stripe
+openai
+drf-yasg
+Pillow
